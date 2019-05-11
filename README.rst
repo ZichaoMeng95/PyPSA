@@ -224,7 +224,8 @@ This can be found linked from the overall PyPSA Zenodo DOI:
 .. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.786605.svg
    :target: https://doi.org/10.5281/zenodo.786605
 
-
+Some other function of PyPSA are under development
+ 
 Licence
 =======
 
